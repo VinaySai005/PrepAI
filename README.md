@@ -1,20 +1,17 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+PrepAI - Your AI Career Coach
+<br>
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+<p align="center">
+<img src="path/to/your/Screenshot_2025-09-16_102657.jpg" alt="PrepAI Landing Page" width="800"/>
+</p>
 
-### Make sure to create a `.env` file with following variables -
+<h3 align="center">PrepAI is an AI-powered platform designed to help professionals achieve career success with personalized guidance, smart preparation tools, and growth-focused resources.</h3>
 
-```
-DATABASE_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-```
+<p align="center">
+<a href="#about-the-project"><strong>About</strong></a> ·
+<a href="#live-demo"><strong>Live Demo</strong></a> ·
+<a href="#features"><strong>Features</strong></a> ·
+<a href="#tech-stack"><strong>Tech Stack</strong></a> ·
+<a href="#getting-started"><strong>Getting Started</strong></a> ·
+<a href="#roadmap"><strong>Roadmap</strong></a>
+</p>
